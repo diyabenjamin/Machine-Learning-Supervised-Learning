@@ -1,1 +1,2 @@
-# ML_Assignment-1_Supervised-Learning
+# Supervised Learning in Machine Learning
+Using python's sklearn package
